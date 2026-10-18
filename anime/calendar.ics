@@ -1,0 +1,697 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//3790 Anime Calendar//Subscription Feed//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:3790 追番日历
+X-WR-TIMEZONE:Australia/Sydney
+X-APPLE-CALENDAR-COLOR:#7C78B9
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALDESC:3790 动画追番日历。每季在 GitHub 更新相同 ICS 文件，
+ iOS 订阅地址保持不变。
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep01@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261001T145600Z
+DTEND:20261001T152600Z
+SUMMARY:《冰之城墙 第二季》第1话（总第15话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-01 23:56 JST（UTC+9）\n悉尼换算：2026-10-02 00:56 AES
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep01@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261003T153000Z
+DTEND:20261003T160000Z
+SUMMARY:《学生会也有洞！》第1话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-04 00:30 JST（UTC+9）\n悉尼换算：2026-10-04 01:30 AES
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep02@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261008T145600Z
+DTEND:20261008T152600Z
+SUMMARY:《冰之城墙 第二季》第2话（总第16话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-08 23:56 JST（UTC+9）\n悉尼换算：2026-10-09 01:56 AED
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep01@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261008T150000Z
+DTEND:20261008T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第1话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-09 00:00 JST（UTC+9）\n悉尼换算：2026-10-09 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep02@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261010T153000Z
+DTEND:20261010T160000Z
+SUMMARY:《学生会也有洞！》第2话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-11 00:30 JST（UTC+9）\n悉尼换算：2026-10-11 02:30 AED
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep03@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261015T145600Z
+DTEND:20261015T152600Z
+SUMMARY:《冰之城墙 第二季》第3话（总第17话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-15 23:56 JST（UTC+9）\n悉尼换算：2026-10-16 01:56 AED
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep02@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261015T150000Z
+DTEND:20261015T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第2话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-16 00:00 JST（UTC+9）\n悉尼换算：2026-10-16 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep03@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261017T153000Z
+DTEND:20261017T160000Z
+SUMMARY:《学生会也有洞！》第3话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-18 00:30 JST（UTC+9）\n悉尼换算：2026-10-18 02:30 AED
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep04@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261022T145600Z
+DTEND:20261022T152600Z
+SUMMARY:《冰之城墙 第二季》第4话（总第18话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-22 23:56 JST（UTC+9）\n悉尼换算：2026-10-23 01:56 AED
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep03@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261022T150000Z
+DTEND:20261022T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第3话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-23 00:00 JST（UTC+9）\n悉尼换算：2026-10-23 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep04@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261024T153000Z
+DTEND:20261024T160000Z
+SUMMARY:《学生会也有洞！》第4话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-25 00:30 JST（UTC+9）\n悉尼换算：2026-10-25 02:30 AED
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep05@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261029T145600Z
+DTEND:20261029T152600Z
+SUMMARY:《冰之城墙 第二季》第5话（总第19话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-29 23:56 JST（UTC+9）\n悉尼换算：2026-10-30 01:56 AED
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep04@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261029T150000Z
+DTEND:20261029T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第4话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-10-30 00:00 JST（UTC+9）\n悉尼换算：2026-10-30 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep05@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261031T153000Z
+DTEND:20261031T160000Z
+SUMMARY:《学生会也有洞！》第5话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-01 00:30 JST（UTC+9）\n悉尼换算：2026-11-01 02:30 AED
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep06@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261105T145600Z
+DTEND:20261105T152600Z
+SUMMARY:《冰之城墙 第二季》第6话（总第20话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-05 23:56 JST（UTC+9）\n悉尼换算：2026-11-06 01:56 AED
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep05@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261105T150000Z
+DTEND:20261105T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第5话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-06 00:00 JST（UTC+9）\n悉尼换算：2026-11-06 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep06@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261107T153000Z
+DTEND:20261107T160000Z
+SUMMARY:《学生会也有洞！》第6话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-08 00:30 JST（UTC+9）\n悉尼换算：2026-11-08 02:30 AED
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep07@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261112T145600Z
+DTEND:20261112T152600Z
+SUMMARY:《冰之城墙 第二季》第7话（总第21话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-12 23:56 JST（UTC+9）\n悉尼换算：2026-11-13 01:56 AED
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep06@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261112T150000Z
+DTEND:20261112T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第6话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-13 00:00 JST（UTC+9）\n悉尼换算：2026-11-13 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep07@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261114T153000Z
+DTEND:20261114T160000Z
+SUMMARY:《学生会也有洞！》第7话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-15 00:30 JST（UTC+9）\n悉尼换算：2026-11-15 02:30 AED
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep08@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261119T145600Z
+DTEND:20261119T152600Z
+SUMMARY:《冰之城墙 第二季》第8话（总第22话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-19 23:56 JST（UTC+9）\n悉尼换算：2026-11-20 01:56 AED
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep07@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261119T150000Z
+DTEND:20261119T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第7话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-20 00:00 JST（UTC+9）\n悉尼换算：2026-11-20 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep08@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261121T153000Z
+DTEND:20261121T160000Z
+SUMMARY:《学生会也有洞！》第8话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-22 00:30 JST（UTC+9）\n悉尼换算：2026-11-22 02:30 AED
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep09@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261126T145600Z
+DTEND:20261126T152600Z
+SUMMARY:《冰之城墙 第二季》第9话（总第23话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-26 23:56 JST（UTC+9）\n悉尼换算：2026-11-27 01:56 AED
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep08@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261126T150000Z
+DTEND:20261126T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第8话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-27 00:00 JST（UTC+9）\n悉尼换算：2026-11-27 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep09@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261128T153000Z
+DTEND:20261128T160000Z
+SUMMARY:《学生会也有洞！》第9话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-11-29 00:30 JST（UTC+9）\n悉尼换算：2026-11-29 02:30 AED
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep10@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261203T145600Z
+DTEND:20261203T152600Z
+SUMMARY:《冰之城墙 第二季》第10话（总第24话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-12-03 23:56 JST（UTC+9）\n悉尼换算：2026-12-04 01:56 AED
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep09@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261203T150000Z
+DTEND:20261203T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第9话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-12-04 00:00 JST（UTC+9）\n悉尼换算：2026-12-04 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep10@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261205T153000Z
+DTEND:20261205T160000Z
+SUMMARY:《学生会也有洞！》第10话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-12-06 00:30 JST（UTC+9）\n悉尼换算：2026-12-06 02:30 AED
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep11@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261210T145600Z
+DTEND:20261210T152600Z
+SUMMARY:《冰之城墙 第二季》第11话（总第25话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-12-10 23:56 JST（UTC+9）\n悉尼换算：2026-12-11 01:56 AED
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep10@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261210T150000Z
+DTEND:20261210T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第10话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-12-11 00:00 JST（UTC+9）\n悉尼换算：2026-12-11 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep11@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261212T153000Z
+DTEND:20261212T160000Z
+SUMMARY:《学生会也有洞！》第11话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-12-13 00:30 JST（UTC+9）\n悉尼换算：2026-12-13 02:30 AED
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ice-wall-s2-2026-fall-ep12@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261217T145600Z
+DTEND:20261217T152600Z
+SUMMARY:《冰之城墙 第二季》第12话（总第26话）
+DESCRIPTION:日本 TBS 系列电视首播，每周四 23:56 JST；剧集总
+ 序号15–26来自 Bangumi 现行剧集目录。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-12-17 23:56 JST（UTC+9）\n悉尼换算：2026-12-18 01:56 AED
+ T\n播出/官方来源：https://korinojoheki-pr.com/\n作品参考：http
+ s://bangumi.tv/subject/665390\n后续时间按官方固定周播时段预
+ 排；停播/调整请以官方为准。
+URL:https://korinojoheki-pr.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep11@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261217T150000Z
+DTEND:20261217T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第11话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-12-18 00:00 JST（UTC+9）\n悉尼换算：2026-12-18 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:student-council-holes-2026-fall-ep12@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261219T153000Z
+DTEND:20261219T160000Z
+SUMMARY:《学生会也有洞！》第12话
+DESCRIPTION:日本 TOKYO MX / BS11 等电视首播，节目表标记每周
+ 六24:30 JST，按自然日期为周日00:30 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-12-20 00:30 JST（UTC+9）\n悉尼换算：2026-12-20 02:30 AED
+ T\n播出/官方来源：https://nama-anaru.com/\n作品参考：https://n
+ ama-anaru.com/episode/\n后续时间按官方固定周播时段预排；
+ 停播/调整请以官方为准。
+URL:https://nama-anaru.com/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tetsuryo-2026-fall-ep12@anime-3790.local
+DTSTAMP:20261018T122500Z
+CREATED:20261018T122500Z
+LAST-MODIFIED:20261018T122500Z
+DTSTART:20261224T150000Z
+DTEND:20261224T153000Z
+SUMMARY:《铁旅！meet with 铁道少女》第12话
+DESCRIPTION:日本 TOKYO MX / BS Fuji 电视首播，节目表标记每周
+ 四24:00 JST，按自然日期为周五00:00 JST。\n事件时刻：日本
+ 电视首播；澳大利亚流媒体更新时刻可能不同。\n日本首
+ 播：2026-12-25 00:00 JST（UTC+9）\n悉尼换算：2026-12-25 02:00 AED
+ T\n播出/官方来源：https://tetsuryo-anime.com/onair/\n作品参考
+ ：https://bangumi.tv/subject/590553\n后续时间按官方固定周播时
+ 段预排；停播/调整请以官方为准。
+URL:https://tetsuryo-anime.com/onair/
+CATEGORIES:动画,2026秋番
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
