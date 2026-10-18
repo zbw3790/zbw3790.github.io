@@ -13,7 +13,9 @@
     "js_path": "gui/rwp_gui_wrapper.js",
     "wasm_path": "gui/rwp_gui_wrapper_bg.wasm",
     "wasm_sha256": "0070c6ed10921083e89d99517a47ca9f1f74cf70b69d8a6055f47b9007052143",
-    "wasm_size_bytes": 9033841
+    "wasm_size_bytes": 9033841,
+    "js_sha256": "3cb17d7ae8dd00940f6b64736aa3566d1709ca0b55482402c2c1447df582dea1",
+    "js_size_bytes": 152516
   },
   "assets": [],
   "runtime": {
@@ -32,7 +34,13 @@
     "panic_recovery": "DOCUMENT_RELOAD_REQUIRED",
     "physical_ime": "NOT_TESTED",
     "cjk_glyphs": "MANUAL_PENDING",
-    "synchronous_hang_interruption": "UNSUPPORTED"
+    "synchronous_hang_interruption": "UNSUPPORTED",
+    "loading_policy": {
+      "slow_ms": 10000,
+      "total_ms": 300000,
+      "idle_ms": 60000
+    },
+    "shell_revision": "M4G-fix/loading-fix-r1"
   },
   "compatibility": {
     "candidate": "PROJECT_SOURCE_ADAPTATION_REQUIRED",

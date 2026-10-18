@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "kind": "RWP_GUI_TOOL",
+  "backend": "EFRAME_WEBRUNNER",
+  "title": "TellerPack Web Preview · 内存态",
+  "application_id": "tellerpack",
+  "base": "./",
+  "glue": {
+    "js_path": "gui/rwp_eframe_web_wrapper.js",
+    "wasm_path": "gui/rwp_eframe_web_wrapper_bg.wasm",
+    "js_sha256": "c8a49b199536f06461872a3b36f1aaadda4441b489f9aa4b8bd7bbc288d47cbc",
+    "js_size_bytes": 155808,
+    "wasm_sha256": "5f8225415f9655b45a2099c3205aee09862725f1cb935d3dfd85413040555b23",
+    "wasm_size_bytes": 11204936
+  },
+  "assets": [],
+  "runtime": {
+    "factory_contract": "observer_snapshot_v1",
+    "renderer": "glow",
+    "loading_policy": {
+      "slow_ms": 10000,
+      "total_ms": 300000,
+      "idle_ms": 60000
+    },
+    "shell_revision": "M4G-fix/loading-fix-r1"
+  }
+}
