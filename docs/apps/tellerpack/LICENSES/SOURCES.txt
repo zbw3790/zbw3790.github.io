@@ -1,0 +1,1 @@
+TellerPack 1.2.0由用户明确授权本次导出，既有源未提供独立开源许可证；不声明任意再授权。M3C旧Wasm含编译源路径，本次用同字节冻结Rust/wrapper/字体离线重建，仅编译路径映射；没有手工修改Wasm。Noto Sans SC为M3C既有OFL子集，嵌入Wasm；来源/裁剪/许可证见FONT-INFO.md与OFL-NotoSansSC.txt。未读取或分发系统字体。egui默认字体许可随包保留。eframe/egui0.36.1、wasm-bindgen0.2.129及serde/serde_json为MIT OR Apache-2.0；Vite8.3.4为MIT。运行没有CDN/外部服务。

@@ -1,0 +1,3 @@
+# Delivered payloads must keep their exact bytes (no line-ending conversion).
+pages/** -text
+apps/** -text

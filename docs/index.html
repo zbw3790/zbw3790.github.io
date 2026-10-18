@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>3790 · 网页作品与 Rust 应用</title>
+  <meta name="description" content="3790 的作品入口：三份中文 Mustang 网页图解，以及两个在浏览器本地运行的 Rust 应用。无需安装，直接打开。">
+  <meta name="theme-color" content="#05070e">
+  <meta name="color-scheme" content="dark">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="3790 · 网页作品与 Rust 应用">
+  <meta property="og:description" content="3790 的作品入口：三份中文 Mustang 网页图解，以及两个在浏览器本地运行的 Rust 应用。无需安装，直接打开。">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/styles.css">
+  <script src="assets/main.js" defer></script>
+</head>
+<body id="top">
+  <a class="skip-link" href="#main">跳到主要内容</a>
+
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="./" aria-label="3790 首页">
+        <span class="brand-glyph" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
+        <span class="brand-word">3790</span>
+      </a>
+      <nav class="site-nav" aria-label="主导航">
+        <a href="#web">网页作品</a>
+        <a href="#rust">Rust 应用</a>
+        <a href="#about">说明</a>
+      </nav>
+      <p class="header-meta"><span class="status-dot" aria-hidden="true"></span>静态站点</p>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero shell" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="eyebrow-dot" aria-hidden="true"></span>WORKS · 3790</p>
+        <h1 class="hero-title" id="hero-title">
+          <span class="hero-num">3790</span>
+          <span class="hero-tagline">网页作品与 Rust 应用，<br>一个入口，直接打开。</span>
+        </h1>
+        <p class="lede">三份中文 Mustang 图解长页，两个在浏览器本地运行的 Rust 应用。无需安装、无需登录，也不依赖服务端；原有页面与成品保持原样。</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#web">浏览网页作品<svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true" focusable="false"><path d="M4 12 12 4M6 4h6v6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+          <a class="btn btn-ghost" href="#rust">打开 Rust 应用</a>
+        </div>
+        <dl class="facts" aria-label="站点概况">
+          <div class="fact"><dt>网页作品</dt><dd>03</dd></div>
+          <div class="fact"><dt>Rust 应用</dt><dd>02</dd></div>
+          <div class="fact"><dt>访问入口</dt><dd>06</dd></div>
+        </dl>
+        <p class="facts-note">共 6 个入口；其中 WebGPU 入口需兼容浏览器。</p>
+      </div>
+      <div class="hero-gallery" aria-label="精选入口">
+        <a class="tile tile--feature" href="pages/mustang-atlas/mustang-all-generations.html" target="_blank" rel="noopener noreferrer" aria-label="Mustang 图鉴 · 七代全谱系（在新标签页打开）">
+          <img src="assets/previews/mustang-all-generations-880.webp" srcset="assets/previews/mustang-all-generations-440.webp 440w, assets/previews/mustang-all-generations-880.webp 880w" sizes="(max-width: 860px) 82vw, (max-width: 1080px) 31vw, 47vw" width="880" height="550" alt="" fetchpriority="high" decoding="async">
+          <span class="tile-caption"><span class="tile-kicker">网页作品</span><strong>Mustang 图鉴 · 七代全谱系</strong></span>
+          <span class="tile-go" aria-hidden="true">↗</span>
+        </a>
+        <a class="tile" href="apps/pixel-to-sphere/webgl2/index.html" target="_blank" rel="noopener noreferrer" aria-label="pixel-to-sphere · WebGL2（在新标签页打开）">
+          <img src="assets/previews/pixel-webgl2-880.webp" srcset="assets/previews/pixel-webgl2-440.webp 440w, assets/previews/pixel-webgl2-880.webp 880w" sizes="(max-width: 860px) 82vw, (max-width: 1080px) 31vw, 24vw" width="880" height="656" alt="" decoding="async">
+          <span class="tile-caption"><span class="tile-kicker">Rust 应用</span><strong>pixel-to-sphere · WebGL2</strong></span>
+          <span class="tile-go" aria-hidden="true">↗</span>
+        </a>
+        <a class="tile" href="apps/tellerpack/index.html" target="_blank" rel="noopener noreferrer" aria-label="TellerPack · 内存态配钞（在新标签页打开）">
+          <img src="assets/previews/tellerpack-glow-880.webp" srcset="assets/previews/tellerpack-glow-440.webp 440w, assets/previews/tellerpack-glow-880.webp 880w" sizes="(max-width: 860px) 82vw, (max-width: 1080px) 31vw, 24vw" width="880" height="656" alt="" decoding="async">
+          <span class="tile-caption"><span class="tile-kicker">Rust 应用</span><strong>TellerPack · 内存态配钞</strong></span>
+          <span class="tile-go" aria-hidden="true">↗</span>
+        </a>
+      </div>
+    </section>
+
+    <section class="section shell" id="web" aria-labelledby="web-title">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker"><span>01</span> / WEB PAGES</p>
+          <h2 id="web-title">网页作品</h2>
+        </div>
+        <p class="section-note">三份独立的中文图解长页，图片、字体与脚本全部内嵌在单一 HTML 中；入口保持原文件名，直接打开。</p>
+      </div>
+      <div class="work-grid">
+        <article class="work-card">
+          <div class="work-media">
+            <img src="assets/previews/mustang-all-generations-880.webp" srcset="assets/previews/mustang-all-generations-440.webp 440w, assets/previews/mustang-all-generations-880.webp 880w" sizes="(max-width: 720px) 92vw, (max-width: 1080px) 45vw, 30vw" width="880" height="550" alt="Mustang 七代全谱系页面顶部：深蓝背景上的白色大标题“同一匹马，七次换骨”，右侧是一辆绿色 1967 Shelby GT500。" loading="lazy" decoding="async">
+            <span class="work-index" aria-hidden="true">01</span>
+          </div>
+          <div class="work-body">
+            <p class="work-kicker">Mustang 图鉴 · 七代全谱系</p>
+            <h3 class="work-title"><a href="pages/mustang-atlas/mustang-all-generations.html" target="_blank" rel="noopener noreferrer">同一匹马，七次换骨<span class="sr-only">（在新标签页打开）</span></a></h3>
+            <p class="work-desc">从 Falcon 底盘的 1964½ 到数字座舱的 S650：平台、外观、动力，以及 Mach 1、Boss、Cobra、Shelby 等名字的迁徙。</p>
+            <div class="work-tags"><span class="tag">单文件 HTML</span><span class="tag">图片内嵌</span><span class="tag">手机适配</span></div>
+            <div class="work-foot">
+              <span>3.8 MB · 1964½–2026</span>
+              <span class="work-open" aria-hidden="true">打开页面 <svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true" focusable="false"><path d="M4 12 12 4M6 4h6v6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            </div>
+          </div>
+        </article>
+        <article class="work-card">
+          <div class="work-media">
+            <img src="assets/previews/mustang-first-generation-880.webp" srcset="assets/previews/mustang-first-generation-440.webp 440w, assets/previews/mustang-first-generation-880.webp 880w" sizes="(max-width: 720px) 92vw, (max-width: 1080px) 45vw, 30vw" width="880" height="550" alt="初代 Mustang 页面顶部：深蓝背景与浅蓝色大标题“一匹马，十年十种脾气”，右侧是一辆蓝色 1970 Mustang Mach 1。" loading="lazy" decoding="async">
+            <span class="work-index" aria-hidden="true">02</span>
+          </div>
+          <div class="work-body">
+            <p class="work-kicker">Mustang 图鉴 · 初代 1964½–1973</p>
+            <h3 class="work-title"><a href="pages/mustang-atlas/mustang-first-generation.html" target="_blank" rel="noopener noreferrer">一匹马，十年十种脾气<span class="sr-only">（在新标签页打开）</span></a></h3>
+            <p class="work-desc">三种车身、四次改款，GT、Mach 1、Boss、Shelby、Grande、GT-CS 与地区特别版，附带前脸与机械拆解。</p>
+            <div class="work-tags"><span class="tag">单文件 HTML</span><span class="tag">图片内嵌</span><span class="tag">手机适配</span></div>
+            <div class="work-foot">
+              <span>6.4 MB · 1964½–1973</span>
+              <span class="work-open" aria-hidden="true">打开页面 <svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true" focusable="false"><path d="M4 12 12 4M6 4h6v6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            </div>
+          </div>
+        </article>
+        <article class="work-card">
+          <div class="work-media">
+            <img src="assets/previews/mustang-s650-880.webp" srcset="assets/previews/mustang-s650-440.webp 440w, assets/previews/mustang-s650-880.webp 880w" sizes="(max-width: 720px) 92vw, (max-width: 1080px) 45vw, 30vw" width="880" height="550" alt="S650 页面顶部：深蓝色标题“同一匹马，一条性能阶梯”，右侧是一辆蓝色第七代 Mustang Dark Horse。" loading="lazy" decoding="async">
+            <span class="work-index" aria-hidden="true">03</span>
+          </div>
+          <div class="work-body">
+            <p class="work-kicker">Mustang 图鉴 · S650 2024–2027</p>
+            <h3 class="work-title"><a href="pages/mustang-atlas/mustang-s650-performance-ladder.html" target="_blank" rel="noopener noreferrer">同一匹马，一条性能阶梯<span class="sr-only">（在新标签页打开）</span></a></h3>
+            <p class="work-desc">从 315 hp 的 2.3T EcoBoost 到 815 hp 的 GTD，再延伸到 Shelby American 与 Roush、Saleen、Steeda、Hennessey 的改装作品。</p>
+            <div class="work-tags"><span class="tag">单文件 HTML</span><span class="tag">图片内嵌</span><span class="tag">手机适配</span></div>
+            <div class="work-foot">
+              <span>4.9 MB · 2024–2027</span>
+              <span class="work-open" aria-hidden="true">打开页面 <svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true" focusable="false"><path d="M4 12 12 4M6 4h6v6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section shell" id="rust" aria-labelledby="rust-title">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker"><span>02</span> / RUST APPS</p>
+          <h2 id="rust-title">Rust 应用</h2>
+        </div>
+        <p class="section-note">由 Rust 编译为 WebAssembly，在浏览器本地运行。每个入口独立打开，首次载入需要下载对应运行时。</p>
+      </div>
+      <div class="app-grid">
+        <article class="app-card">
+          <div class="app-media"><img src="assets/previews/pixel-webgl2-880.webp" srcset="assets/previews/pixel-webgl2-440.webp 440w, assets/previews/pixel-webgl2-880.webp 880w" sizes="(max-width: 1080px) 92vw, 46vw" width="880" height="656" alt="pixel-to-sphere 浏览器界面：左侧是旋转、渲染与图像设置面板，右侧是一个用 64×32 测试纹理贴图的彩色球体。" loading="lazy" decoding="async"></div>
+          <div class="app-body">
+            <h3 class="app-title">pixel-to-sphere</h3>
+            <p class="app-sub">Rust 三维球体预览</p>
+            <p class="app-desc">由 Rust 与 wgpu 编译到 WebAssembly 的球体纹理预览：左拖旋转、滚轮缩放、右拖平移，两个显式 GPU 入口分别打开。</p>
+            <div class="app-tags"><span class="tag">Rust / WASM</span><span class="tag">WebGL2 + WebGPU</span><span class="tag">内存态</span></div>
+            <div class="app-entries">
+            <a class="entry-link" href="apps/pixel-to-sphere/webgl2/index.html" target="_blank" rel="noopener noreferrer">
+              <span class="entry-main">
+                <span class="entry-title">WebGL2 入口（推荐） <span class="badge badge-ok">本地已验证</span></span>
+                <span class="entry-desc">本机 headless 自动化：Edge 155.0.4283.45 / Firefox 157.0</span>
+              </span>
+              <span class="entry-go" aria-hidden="true">↗</span>
+              <span class="sr-only">（在新标签页打开）</span>
+            </a>
+            <a class="entry-link" href="apps/pixel-to-sphere/webgpu/index.html" target="_blank" rel="noopener noreferrer">
+              <span class="entry-main">
+                <span class="entry-title">WebGPU 入口 <span class="badge badge-warn">条件可用</span></span>
+                <span class="entry-desc">需要支持 WebGPU 的浏览器；本机 Firefox 157.0 headless 未通过</span>
+              </span>
+              <span class="entry-go" aria-hidden="true">↗</span>
+              <span class="sr-only">（在新标签页打开）</span>
+            </a>
+            </div>
+            <p class="app-note">首次打开需下载约 9 MB WASM；相机操作不保存，刷新即复位。图片导入与 PNG 导出在此版本禁用。</p>
+          </div>
+        </article>
+        <article class="app-card">
+          <div class="app-media"><img src="assets/previews/tellerpack-glow-880.webp" srcset="assets/previews/tellerpack-glow-440.webp 440w, assets/previews/tellerpack-glow-880.webp 880w" sizes="(max-width: 1080px) 92vw, 46vw" width="880" height="656" alt="TellerPack 浏览器界面：顶部是运行状态与启动按钮，中部是配钞表单，下方是 50 元与 100 元的出库明细表。" loading="lazy" decoding="async"></div>
+          <div class="app-body">
+            <h3 class="app-title">TellerPack</h3>
+            <p class="app-sub">Rust 内存态配钞演示</p>
+            <p class="app-desc">由 Rust 与 eframe/glow 编译到浏览器本地运行的配钞演示：设定目标金额，计算面额、整包与处理单元，结果只存在内存中。</p>
+            <div class="app-tags"><span class="tag">Rust / WASM</span><span class="tag">WebGL2</span><span class="tag">内存态</span></div>
+            <div class="app-entries">
+            <a class="entry-link" href="apps/tellerpack/index.html" target="_blank" rel="noopener noreferrer">
+              <span class="entry-main">
+                <span class="entry-title">打开 TellerPack <span class="badge badge-ok">本地已验证</span></span>
+                <span class="entry-desc">本机 headless 自动化：Edge 155.0.4283.45 / Firefox 157.0</span>
+              </span>
+              <span class="entry-go" aria-hidden="true">↗</span>
+              <span class="sr-only">（在新标签页打开）</span>
+            </a>
+            </div>
+            <p class="app-note">首次打开需下载约 11 MB WASM；不写盘、不保存，刷新回到初始库存。仅供演示，请勿用于真实库存。</p>
+          </div>
+        </article>
+      </div>
+      <p class="section-footnote">Rust 应用为桌面浏览器界面，主页的窄屏适配不代表应用支持手机或触控；WebGPU 入口仅在支持的浏览器中可用。</p>
+    </section>
+
+    <section class="section shell about" id="about" aria-labelledby="about-title">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker"><span>03</span> / NOTES</p>
+          <h2 id="about-title">关于本站</h2>
+        </div>
+        <p class="section-note">本站只做入口与整理，不接管原作品的界面。所有项目文件按原样发布。</p>
+      </div>
+      <div class="note-grid">
+        <article class="note-card">
+          <h3><span class="note-num" aria-hidden="true">01</span>原作保持原样</h3>
+          <p>网页与 Rust 浏览器成品按原字节复制到发布目录，只在目录与链接层接入。没有改写、压缩、注入脚本或替换主题，也没有给原页面添加返回按钮。</p>
+        </article>
+        <article class="note-card">
+          <h3><span class="note-num" aria-hidden="true">02</span>直接运行</h3>
+          <p>主页与网页作品是普通静态文件；Rust 应用由 WebAssembly 在浏览器本地运行，不需要安装客户端或启动服务端。</p>
+        </article>
+        <article class="note-card">
+          <h3><span class="note-num" aria-hidden="true">03</span>边界与提示</h3>
+          <p>项目入口在新标签页打开。Rust 应用是桌面浏览器界面，窄屏与触控尚未验证；WebGPU 入口仅在支持的浏览器中可用。</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell footer-inner">
+      <div class="footer-brand-wrap">
+        <span class="footer-brand">3790</span>
+        <span class="footer-meta">作品入口 · 纯静态页面 · 2026</span>
+      </div>
+      <p class="footer-license">网页原图与文字来自各自项目；TellerPack 未声明额外开源再许可，pixel-to-sphere 沿用 MIT。</p>
+      <a class="footer-top" href="#top">回到顶部 <span aria-hidden="true">↑</span></a>
+    </div>
+  </footer>
+</body>
+</html>

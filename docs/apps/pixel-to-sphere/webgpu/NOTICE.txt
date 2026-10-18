@@ -1,0 +1,5 @@
+RWP generic eframe external wrapper and lifecycle host.
+eframe/egui profile version declared in tool-manifest.json: MIT OR Apache-2.0. wgpu: MIT OR Apache-2.0.
+wasm-bindgen 0.2.129: MIT OR Apache-2.0. Vite 8.3.4: MIT.
+Business App and embedded resources remain in the authorized frozen native library.
+This static directory contains client-side code, not a native executable or backend service.

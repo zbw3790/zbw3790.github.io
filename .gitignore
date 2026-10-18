@@ -1,0 +1,10 @@
+# Local-only working material is not part of this publish repository.
+/incoming/
+/reports/
+/dist/
+/site/
+/scripts/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db

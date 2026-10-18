@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "kind": "RWP_GUI_TOOL",
+  "backend": "EFRAME_WGPU_WEBRUNNER",
+  "title": "Pixel to Sphere · Rust 三维预览",
+  "application_id": "pixel-to-sphere-preview",
+  "base": "./",
+  "application": {
+    "package": "pixel-to-sphere",
+    "library": "pixel_to_sphere"
+  },
+  "glue": {
+    "js_path": "gui/rwp_gui_wrapper.js",
+    "wasm_path": "gui/rwp_gui_wrapper_bg.wasm",
+    "wasm_sha256": "0070c6ed10921083e89d99517a47ca9f1f74cf70b69d8a6055f47b9007052143",
+    "wasm_size_bytes": 9033841
+  },
+  "assets": [],
+  "runtime": {
+    "profile": "eframe-wgpu0362-v1",
+    "renderer": "wgpu",
+    "gpu_backend_request": "webgl2",
+    "eframe_version": "0.36.2",
+    "wasm_bindgen_version": "0.2.129",
+    "factory_contract": "observer_snapshot_v1",
+    "diagnostics_capabilities": {
+      "app_snapshot": true,
+      "widget_rects": true,
+      "runtime_status": true,
+      "wasm_linear_memory": true
+    },
+    "panic_recovery": "DOCUMENT_RELOAD_REQUIRED",
+    "physical_ime": "NOT_TESTED",
+    "cjk_glyphs": "MANUAL_PENDING",
+    "synchronous_hang_interruption": "UNSUPPORTED"
+  },
+  "compatibility": {
+    "candidate": "PROJECT_SOURCE_ADAPTATION_REQUIRED",
+    "build_status": "PASS",
+    "browser_status": "WGPU_WEBGL2_REAL_EDGE_VERIFIED",
+    "public_deployment": "DEPLOYMENT_CONDITIONAL",
+    "intervention_level": "L1",
+    "adaptation_status": "M4E_NATIVE_DEFAULT_FEATURES_RESTORED",
+    "native_comparison": "BOUNDED_NATIVE_WEB_CORE_PARITY_VERIFIED",
+    "file_io": "UNSUPPORTED_IN_WEB_PREVIEW"
+  }
+}
